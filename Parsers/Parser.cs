@@ -1,4 +1,4 @@
-﻿using ChaosDocGen.Helpers;
+﻿using StrataDocGen.Helpers;
 using ClangSharp;
 using ClangSharp.Interop;
 using System;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace ChaosDocGen.Parsers
+namespace StrataDocGen.Parsers
 {
 	public class Parser
 	{

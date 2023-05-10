@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChaosDocGen.Helpers
+namespace StrataDocGen.Helpers
 {
 	public class MacroBlock
 	{
